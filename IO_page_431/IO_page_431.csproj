@@ -38,13 +38,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CopyFile.cs" />
     <Compile Include="ErrOut.cs" />
     <Compile Include="KbIn.cs" />
+    <Compile Include="KtoD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadChars2.cs" />
     <Compile Include="ReadKeys.cs" />
     <Compile Include="ReadString.cs" />
+    <Compile Include="ShowFile.cs" />
+    <Compile Include="WriteToFile.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

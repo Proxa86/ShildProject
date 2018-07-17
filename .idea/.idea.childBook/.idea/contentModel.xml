@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_childBook.388428201.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="IO_page_431" t="IncludeRecursive">
+        <e p="CopyFile.cs" t="Include" />
+        <e p="ErrOut.cs" t="Include" />
+        <e p="IO_page_431.csproj" t="IncludeRecursive" />
+        <e p="KbIn.cs" t="Include" />
+        <e p="KtoD.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReadChars2.cs" t="Include" />
+        <e p="ReadKeys.cs" t="Include" />
+        <e p="ReadString.cs" t="Include" />
+        <e p="ShowFile.cs" t="Include" />
+        <e p="WriteToFile.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="childBook.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
