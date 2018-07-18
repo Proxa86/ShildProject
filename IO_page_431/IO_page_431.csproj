@@ -39,7 +39,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CopyFile.cs" />
+    <Compile Include="Dtos.cs" />
     <Compile Include="ErrOut.cs" />
+    <Compile Include="Inventory.cs" />
     <Compile Include="KbIn.cs" />
     <Compile Include="KtoD.cs" />
     <Compile Include="Program.cs" />
@@ -47,6 +49,8 @@
     <Compile Include="ReadChars2.cs" />
     <Compile Include="ReadKeys.cs" />
     <Compile Include="ReadString.cs" />
+    <Compile Include="Redirec.cs" />
+    <Compile Include="RWData.cs" />
     <Compile Include="ShowFile.cs" />
     <Compile Include="WriteToFile.cs" />
   </ItemGroup>

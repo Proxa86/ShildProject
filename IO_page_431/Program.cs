@@ -30,9 +30,24 @@ namespace IO_page_431
             
             KtoD ktoD = new KtoD();
             ktoD.Page_449();
-            */
+            
             KtoD ktoD =  new KtoD();
             ktoD.Page_450();
+            
+            Dtos dtos =  new Dtos();
+            dtos.Page_451();
+            
+            Dtos dtos =  new Dtos();
+            dtos.Page_452();
+           
+            Redirec redirec = new Redirec();
+            redirec.Page_453();
+            
+            RWData rwData = new RWData();
+            rwData.Page_457();
+             */
+            Inventory inventory =  new Inventory();
+            inventory.Page_459();
         }
     }
 }
