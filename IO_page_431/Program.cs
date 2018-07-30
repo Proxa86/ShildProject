@@ -63,10 +63,10 @@ namespace IO_page_431
             
             ExistsDemo existsDemo =  new ExistsDemo();
             existsDemo.Page_469();
-            */
+            
             AvgNums avgNums =  new AvgNums();
             avgNums.Page_471();
-            
+            */
             
         }
     }
