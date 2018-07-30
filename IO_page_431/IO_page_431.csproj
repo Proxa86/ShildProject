@@ -38,20 +38,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AvgNums.cs" />
     <Compile Include="CopyFile.cs" />
+    <Compile Include="CopyFile1.cs" />
     <Compile Include="Dtos.cs" />
     <Compile Include="ErrOut.cs" />
+    <Compile Include="ExistsDemo.cs" />
     <Compile Include="Inventory.cs" />
     <Compile Include="KbIn.cs" />
     <Compile Include="KtoD.cs" />
+    <Compile Include="MemStrDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomAccessDemo.cs" />
     <Compile Include="ReadChars2.cs" />
     <Compile Include="ReadKeys.cs" />
     <Compile Include="ReadString.cs" />
     <Compile Include="Redirec.cs" />
     <Compile Include="RWData.cs" />
     <Compile Include="ShowFile.cs" />
+    <Compile Include="StrRdrWrtDemo.cs" />
     <Compile Include="WriteToFile.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

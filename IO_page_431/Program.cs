@@ -45,9 +45,29 @@ namespace IO_page_431
             
             RWData rwData = new RWData();
             rwData.Page_457();
-             */
+             
             Inventory inventory =  new Inventory();
             inventory.Page_459();
+            
+            RandomAccessDemo randomAccessDemo =  new RandomAccessDemo();
+            randomAccessDemo.Page_462();
+            
+            MemStrDemo memStrDemo =  new MemStrDemo();
+            memStrDemo.Page_465();
+            
+            StrRdrWrtDemo strRdrWrtDemo =  new StrRdrWrtDemo();
+            strRdrWrtDemo.Page_466();
+            
+            CopyFile1 copyFile1 =  new CopyFile1();
+            copyFile1.Page_468(args);
+            
+            ExistsDemo existsDemo =  new ExistsDemo();
+            existsDemo.Page_469();
+            */
+            AvgNums avgNums =  new AvgNums();
+            avgNums.Page_471();
+            
+            
         }
     }
 }
