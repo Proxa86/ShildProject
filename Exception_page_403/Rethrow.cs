@@ -4,7 +4,7 @@ namespace Exception_page_403
 {
     public class Rethrow
     {
-        public static void Page_415()
+        public static void GenException()
         {
             int[] numer = {4, 8, 16, 32, 64, 128, 256, 512};
             int[] denom = {2, 0, 4, 4, 0, 8};

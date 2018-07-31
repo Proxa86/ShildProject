@@ -4,7 +4,7 @@ namespace Exception_page_403
 {
     public class ExcTest1
     {
-        public static void Page_419()
+        public static void GenException()
         {
             int [] nums =  new int[4];
 

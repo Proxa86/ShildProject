@@ -4,6 +4,9 @@
     <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_childBook.388428201.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Exception_page_403" t="IncludeRecursive">
+        <e p="CheckedBlocks.cs" t="Include" />
+        <e p="CheckedDemo.cs" t="Include" />
+        <e p="ExcDemo2.cs" t="Include" />
         <e p="ExcDemo3.cs" t="Include" />
         <e p="ExcDemo4.cs" t="Include" />
         <e p="ExcDemo5.cs" t="Include" />
@@ -11,16 +14,27 @@
         <e p="ExcTest.cs" t="Include" />
         <e p="ExcTest1.cs" t="Include" />
         <e p="ExcTypeMismatch.cs" t="Include" />
+        <e p="ExceptA.cs" t="Include" />
+        <e p="ExceptB.cs" t="Include" />
         <e p="Exception_page_403.csproj" t="IncludeRecursive" />
+        <e p="FinallyDemo.cs" t="Include" />
+        <e p="NREDemo.cs" t="Include" />
         <e p="NestTrys.cs" t="Include" />
         <e p="NotHandled.cs" t="Include" />
+        <e p="OrderMatters.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="RangeArray.cs" t="Include" />
+        <e p="RangeArrayDemo.cs" t="Include" />
+        <e p="RangeArrayException.cs" t="Include" />
         <e p="Rethrow.cs" t="Include" />
+        <e p="RethrowDemo.cs" t="Include" />
         <e p="ThrowDemo.cs" t="Include" />
+        <e p="UseExcept.cs" t="Include" />
         <e p="UseFinally.cs" t="Include" />
+        <e p="X.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>

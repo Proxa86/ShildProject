@@ -4,7 +4,7 @@ namespace Exception_page_403
 {
     public class UseFinally
     {
-        public static void Page_417(int what)
+        public static void GenException(int what)
         {
             int t = 0;
             int [] nums =  new int[2];
