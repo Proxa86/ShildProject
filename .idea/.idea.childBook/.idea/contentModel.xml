@@ -67,13 +67,33 @@
         <e p="obj" t="ExcludeRecursive" />
       </e>
       <e p="Interface_struct_enum_page_375" t="IncludeRecursive">
+        <e p="Book.cs" t="Include" />
         <e p="ByTwos.cs" t="Include" />
         <e p="ByTwos2.cs" t="Include" />
         <e p="ByTwos3.cs" t="Include" />
+        <e p="ClassAssigment.cs" t="Include" />
+        <e p="ConveyorControl.cs" t="Include" />
+        <e p="ConveyorDemo.cs" t="Include" />
+        <e p="Demo.cs" t="Include" />
+        <e p="EnumDemo.cs" t="Include" />
+        <e p="FQIFNames.cs" t="Include" />
+        <e p="IA.cs" t="Include" />
+        <e p="IB.cs" t="Include" />
+        <e p="IEven.cs" t="Include" />
+        <e p="IFExtend.cs" t="Include" />
+        <e p="IMyIF_A.cs" t="Include" />
+        <e p="IMyIF_B.cs" t="Include" />
         <e p="ISeries.cs" t="Include" />
         <e p="ISeries2.cs" t="Include" />
         <e p="ISeries3.cs" t="Include" />
         <e p="Interface_struct_enum_page_375.csproj" t="IncludeRecursive" />
+        <e p="MyClass.cs" t="Include" />
+        <e p="MyClass2.cs" t="Include" />
+        <e p="MyClass3.cs" t="Include" />
+        <e p="MyClass4.cs" t="Include" />
+        <e p="MyStruct.cs" t="Include" />
+        <e p="PacketDemo.cs" t="Include" />
+        <e p="PacketHeader.cs" t="Include" />
         <e p="Primes.cs" t="Include" />
         <e p="Primes_main.cs" t="Include" />
         <e p="Program.cs" t="Include" />
@@ -84,6 +104,9 @@
         <e p="SeriesDemo2.cs" t="Include" />
         <e p="SeriesDemo3.cs" t="Include" />
         <e p="SeriesDemo4.cs" t="Include" />
+        <e p="StructAssigment.cs" t="Include" />
+        <e p="StructDemo.cs" t="Include" />
+        <e p="Transaction.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
