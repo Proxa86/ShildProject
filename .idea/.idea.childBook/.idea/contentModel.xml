@@ -66,6 +66,22 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="Inheritance_page_329" t="IncludeRecursive">
+        <e p="Inheritance_page_329.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Rectangle.cs" t="Include" />
+        <e p="Shapes.cs" t="Include" />
+        <e p="Shapes2.cs" t="Include" />
+        <e p="Triangle.cs" t="Include" />
+        <e p="Triangle2.cs" t="Include" />
+        <e p="TwoDShape.cs" t="Include" />
+        <e p="TwoDShape2.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="Interface_struct_enum_page_375" t="IncludeRecursive">
         <e p="Book.cs" t="Include" />
         <e p="ByTwos.cs" t="Include" />
