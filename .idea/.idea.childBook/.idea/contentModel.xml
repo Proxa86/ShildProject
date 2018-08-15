@@ -70,6 +70,7 @@
         <e p="A.cs" t="Include" />
         <e p="A2.cs" t="Include" />
         <e p="A3.cs" t="Include" />
+        <e p="AbsShape.cs" t="Include" />
         <e p="B.cs" t="Include" />
         <e p="B1.cs" t="Include" />
         <e p="B2.cs" t="Include" />
@@ -78,6 +79,8 @@
         <e p="Base2.cs" t="Include" />
         <e p="Base3.cs" t="Include" />
         <e p="BaseRef.cs" t="Include" />
+        <e p="BoxingDemo.cs" t="Include" />
+        <e p="BoxingDemo2.cs" t="Include" />
         <e p="C3.cs" t="Include" />
         <e p="ColorTriangle.cs" t="Include" />
         <e p="D.cs" t="Include" />
@@ -89,8 +92,10 @@
         <e p="Derived6.cs" t="Include" />
         <e p="Derived7.cs" t="Include" />
         <e p="DynShapes.cs" t="Include" />
+        <e p="GeneticDemo.cs" t="Include" />
         <e p="IncompatibleRef.cs" t="Include" />
         <e p="Inheritance_page_329.csproj" t="IncludeRecursive" />
+        <e p="MyClass.cs" t="Include" />
         <e p="NameHiding.cs" t="Include" />
         <e p="NoOverrideDemo.cs" t="Include" />
         <e p="NoOverrideDemo2.cs" t="Include" />
@@ -103,6 +108,7 @@
         <e p="ProtectedDemo.cs" t="Include" />
         <e p="Rectangle.cs" t="Include" />
         <e p="Rectangle8.cs" t="Include" />
+        <e p="Rectangle9.cs" t="Include" />
         <e p="Shapes.cs" t="Include" />
         <e p="Shapes2.cs" t="Include" />
         <e p="Shapes3.cs" t="Include" />
@@ -110,6 +116,7 @@
         <e p="Shapes5.cs" t="Include" />
         <e p="Shapes6.cs" t="Include" />
         <e p="Shapes7.cs" t="Include" />
+        <e p="Test.cs" t="Include" />
         <e p="Triangle.cs" t="Include" />
         <e p="Triangle2.cs" t="Include" />
         <e p="Triangle3.cs" t="Include" />
@@ -118,6 +125,7 @@
         <e p="Triangle6.cs" t="Include" />
         <e p="Triangle7.cs" t="Include" />
         <e p="Triangle8.cs" t="Include" />
+        <e p="Triangle9.cs" t="Include" />
         <e p="TwoDShape.cs" t="Include" />
         <e p="TwoDShape2.cs" t="Include" />
         <e p="TwoDShape3.cs" t="Include" />
@@ -126,6 +134,7 @@
         <e p="TwoDShape6.cs" t="Include" />
         <e p="TwoDShape7.cs" t="Include" />
         <e p="TwoDShape8.cs" t="Include" />
+        <e p="TwoDShape9.cs" t="Include" />
         <e p="UncoverName.cs" t="Include" />
         <e p="X.cs" t="Include" />
         <e p="X2.cs" t="Include" />
