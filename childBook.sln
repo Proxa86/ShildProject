@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_struct_enum_page_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_page_329", "Inheritance_page_329\Inheritance_page_329.csproj", "{5FA8C75D-D1FF-4D56-8075-C92FCFAEFFFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_and_properties_page_303", "Indexers_and_properties_page_303\Indexers_and_properties_page_303.csproj", "{B2427887-B9E8-4672-A3BF-B8B72C997C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeData_literals_variables_page_67", "TypeData_literals_variables_page_67\TypeData_literals_variables_page_67.csproj", "{FA64CA29-E576-4C36-AC1F-3250C45D2579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{5FA8C75D-D1FF-4D56-8075-C92FCFAEFFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA8C75D-D1FF-4D56-8075-C92FCFAEFFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA8C75D-D1FF-4D56-8075-C92FCFAEFFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2427887-B9E8-4672-A3BF-B8B72C997C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2427887-B9E8-4672-A3BF-B8B72C997C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2427887-B9E8-4672-A3BF-B8B72C997C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2427887-B9E8-4672-A3BF-B8B72C997C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

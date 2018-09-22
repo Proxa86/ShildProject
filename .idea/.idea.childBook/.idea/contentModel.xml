@@ -66,6 +66,17 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="Indexers_and_properties_page_303" t="IncludeRecursive">
+        <e p="FSDemo.cs" t="Include" />
+        <e p="FailSoftArray.cs" t="Include" />
+        <e p="Indexers_and_properties_page_303.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="Inheritance_page_329" t="IncludeRecursive">
         <e p="A.cs" t="Include" />
         <e p="A2.cs" t="Include" />
@@ -184,6 +195,29 @@
         <e p="StructAssigment.cs" t="Include" />
         <e p="StructDemo.cs" t="Include" />
         <e p="Transaction.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="TypeData_literals_variables_page_67" t="IncludeRecursive">
+        <e p="BoolDemo.cs" t="Include" />
+        <e p="CastDemo.cs" t="Include" />
+        <e p="CastExpt.cs" t="Include" />
+        <e p="DisplayOptions.cs" t="Include" />
+        <e p="DynInit.cs" t="Include" />
+        <e p="FindRadius.cs" t="Include" />
+        <e p="FutVal.cs" t="Include" />
+        <e p="ImplicitlyTypeVar.cs" t="Include" />
+        <e p="Inches.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StrDemo.cs" t="Include" />
+        <e p="Trigonometry.cs" t="Include" />
+        <e p="TypeData_literals_variables_page_67.csproj" t="IncludeRecursive" />
+        <e p="UseDecimal.cs" t="Include" />
+        <e p="Use_byte.cs" t="Include" />
+        <e p="Verbatim.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
