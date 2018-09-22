@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_and_properties_pag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeData_literals_variables_page_67", "TypeData_literals_variables_page_67\TypeData_literals_variables_page_67.csproj", "{FA64CA29-E576-4C36-AC1F-3250C45D2579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator_page_97", "Operator_page_97\Operator_page_97.csproj", "{5B94022C-AB72-42BC-82E8-B7C63F5EEFF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA64CA29-E576-4C36-AC1F-3250C45D2579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B94022C-AB72-42BC-82E8-B7C63F5EEFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B94022C-AB72-42BC-82E8-B7C63F5EEFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B94022C-AB72-42BC-82E8-B7C63F5EEFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B94022C-AB72-42BC-82E8-B7C63F5EEFF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

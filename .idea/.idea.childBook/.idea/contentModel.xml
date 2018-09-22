@@ -198,6 +198,24 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="Operator_page_97" t="IncludeRecursive">
+        <e p="Implication.cs" t="Include" />
+        <e p="IsOdd.cs" t="Include" />
+        <e p="MakeEven.cs" t="Include" />
+        <e p="ModDemo.cs" t="Include" />
+        <e p="Operator_page_97.csproj" t="IncludeRecursive" />
+        <e p="PrePostDemo.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RelLogOps.cs" t="Include" />
+        <e p="SCops.cs" t="Include" />
+        <e p="ShowBits.cs" t="Include" />
+        <e p="SideEffects.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="TypeData_literals_variables_page_67" t="IncludeRecursive">
         <e p="BoolDemo.cs" t="Include" />
         <e p="CastDemo.cs" t="Include" />
