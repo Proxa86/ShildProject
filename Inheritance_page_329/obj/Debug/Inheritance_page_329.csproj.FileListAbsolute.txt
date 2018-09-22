@@ -1,0 +1,6 @@
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/bin/Debug/Inheritance_page_329.exe
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/bin/Debug/Inheritance_page_329.pdb
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/obj/Debug/Inheritance_page_329.csprojResolveAssemblyReference.cache
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/obj/Debug/Inheritance_page_329.csproj.CoreCompileInputs.cache
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/obj/Debug/Inheritance_page_329.exe
+/home/lubunta/RiderProjects/ShildProject/Inheritance_page_329/obj/Debug/Inheritance_page_329.pdb

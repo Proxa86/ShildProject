@@ -1,0 +1,6 @@
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/bin/Debug/Exception_page_403.exe
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/bin/Debug/Exception_page_403.pdb
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/obj/Debug/Exception_page_403.csprojResolveAssemblyReference.cache
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/obj/Debug/Exception_page_403.csproj.CoreCompileInputs.cache
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/obj/Debug/Exception_page_403.exe
+/home/lubunta/RiderProjects/ShildProject/Exception_page_403/obj/Debug/Exception_page_403.pdb

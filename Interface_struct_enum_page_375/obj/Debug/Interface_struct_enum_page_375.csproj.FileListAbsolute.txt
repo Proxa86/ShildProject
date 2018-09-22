@@ -1,0 +1,6 @@
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/bin/Debug/Interface_struct_enum_page_375.exe
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/bin/Debug/Interface_struct_enum_page_375.pdb
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/obj/Debug/Interface_struct_enum_page_375.csprojResolveAssemblyReference.cache
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/obj/Debug/Interface_struct_enum_page_375.csproj.CoreCompileInputs.cache
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/obj/Debug/Interface_struct_enum_page_375.exe
+/home/lubunta/RiderProjects/ShildProject/Interface_struct_enum_page_375/obj/Debug/Interface_struct_enum_page_375.pdb

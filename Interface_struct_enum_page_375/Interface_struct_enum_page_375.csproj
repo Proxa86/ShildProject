@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0735B042-857D-4144-BA3A-3229D151BB69}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface_struct_enum_page_375</RootNamespace>
+    <AssemblyName>Interface_struct_enum_page_375</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Book.cs" />
+    <Compile Include="ByTwos.cs" />
+    <Compile Include="ByTwos2.cs" />
+    <Compile Include="ByTwos3.cs" />
+    <Compile Include="ClassAssigment.cs" />
+    <Compile Include="ConveyorControl.cs" />
+    <Compile Include="ConveyorDemo.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="EnumDemo.cs" />
+    <Compile Include="FQIFNames.cs" />
+    <Compile Include="IA.cs" />
+    <Compile Include="IB.cs" />
+    <Compile Include="IEven.cs" />
+    <Compile Include="IFExtend.cs" />
+    <Compile Include="IMyIF_A.cs" />
+    <Compile Include="IMyIF_B.cs" />
+    <Compile Include="ISeries.cs" />
+    <Compile Include="ISeries2.cs" />
+    <Compile Include="ISeries3.cs" />
+    <Compile Include="MyClass.cs" />
+    <Compile Include="MyClass2.cs" />
+    <Compile Include="MyClass3.cs" />
+    <Compile Include="MyClass4.cs" />
+    <Compile Include="MyStruct.cs" />
+    <Compile Include="PacketDemo.cs" />
+    <Compile Include="PacketHeader.cs" />
+    <Compile Include="Primes.cs" />
+    <Compile Include="Primes_main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeriesDemo.cs" />
+    <Compile Include="SeriesDemo2.cs" />
+    <Compile Include="SeriesDemo3.cs" />
+    <Compile Include="SeriesDemo4.cs" />
+    <Compile Include="StructAssigment.cs" />
+    <Compile Include="StructDemo.cs" />
+    <Compile Include="Transaction.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

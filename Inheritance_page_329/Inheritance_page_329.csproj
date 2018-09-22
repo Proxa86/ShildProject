@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FA8C75D-D1FF-4D56-8075-C92FCFAEFFFE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inheritance_page_329</RootNamespace>
+    <AssemblyName>Inheritance_page_329</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A.cs" />
+    <Compile Include="A2.cs" />
+    <Compile Include="A3.cs" />
+    <Compile Include="AbsShape.cs" />
+    <Compile Include="B.cs" />
+    <Compile Include="B1.cs" />
+    <Compile Include="B2.cs" />
+    <Compile Include="B3.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="Base2.cs" />
+    <Compile Include="Base3.cs" />
+    <Compile Include="BaseRef.cs" />
+    <Compile Include="BoxingDemo.cs" />
+    <Compile Include="BoxingDemo2.cs" />
+    <Compile Include="C3.cs" />
+    <Compile Include="ColorTriangle.cs" />
+    <Compile Include="D.cs" />
+    <Compile Include="Derived5.cs" />
+    <Compile Include="Derived1.cs" />
+    <Compile Include="Derived2.cs" />
+    <Compile Include="Derived3.cs" />
+    <Compile Include="Derived4.cs" />
+    <Compile Include="Derived6.cs" />
+    <Compile Include="Derived7.cs" />
+    <Compile Include="DynShapes.cs" />
+    <Compile Include="GeneticDemo.cs" />
+    <Compile Include="IncompatibleRef.cs" />
+    <Compile Include="MyClass.cs" />
+    <Compile Include="NameHiding.cs" />
+    <Compile Include="NoOverrideDemo.cs" />
+    <Compile Include="NoOverrideDemo2.cs" />
+    <Compile Include="OrderOfConstruction.cs" />
+    <Compile Include="OverrideDemo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProtectedDemo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Rectangle8.cs" />
+    <Compile Include="Rectangle9.cs" />
+    <Compile Include="Shapes.cs" />
+    <Compile Include="Shapes2.cs" />
+    <Compile Include="Shapes3.cs" />
+    <Compile Include="Shapes4.cs" />
+    <Compile Include="Shapes5.cs" />
+    <Compile Include="Shapes6.cs" />
+    <Compile Include="Shapes7.cs" />
+    <Compile Include="Test.cs" />
+    <Compile Include="Triangle.cs" />
+    <Compile Include="Triangle2.cs" />
+    <Compile Include="Triangle3.cs" />
+    <Compile Include="Triangle4.cs" />
+    <Compile Include="Triangle5.cs" />
+    <Compile Include="Triangle6.cs" />
+    <Compile Include="Triangle7.cs" />
+    <Compile Include="Triangle8.cs" />
+    <Compile Include="Triangle9.cs" />
+    <Compile Include="TwoDShape.cs" />
+    <Compile Include="TwoDShape2.cs" />
+    <Compile Include="TwoDShape3.cs" />
+    <Compile Include="TwoDShape4.cs" />
+    <Compile Include="TwoDShape5.cs" />
+    <Compile Include="TwoDShape6.cs" />
+    <Compile Include="TwoDShape7.cs" />
+    <Compile Include="TwoDShape8.cs" />
+    <Compile Include="TwoDShape9.cs" />
+    <Compile Include="UncoverName.cs" />
+    <Compile Include="X.cs" />
+    <Compile Include="X2.cs" />
+    <Compile Include="Y.cs" />
+    <Compile Include="Y2.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

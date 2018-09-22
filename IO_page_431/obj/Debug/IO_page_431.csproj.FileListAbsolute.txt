@@ -1,0 +1,6 @@
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/bin/Debug/IO_page_431.exe
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/bin/Debug/IO_page_431.pdb
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/obj/Debug/IO_page_431.csprojResolveAssemblyReference.cache
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/obj/Debug/IO_page_431.csproj.CoreCompileInputs.cache
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/obj/Debug/IO_page_431.exe
+/home/lubunta/RiderProjects/ShildProject/IO_page_431/obj/Debug/IO_page_431.pdb
