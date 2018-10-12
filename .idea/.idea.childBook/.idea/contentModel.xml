@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_childBook.388428201.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_childBook.388428201.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Exception_page_403" t="IncludeRecursive">
         <e p="CheckedBlocks.cs" t="Include" />
@@ -199,10 +200,16 @@
         <e p="obj" t="ExcludeRecursive" />
       </e>
       <e p="Operator_page_97" t="IncludeRecursive">
+        <e p="Encode.cs" t="Include" />
         <e p="Implication.cs" t="Include" />
         <e p="IsOdd.cs" t="Include" />
         <e p="MakeEven.cs" t="Include" />
+        <e p="MakeOdd.cs" t="Include" />
         <e p="ModDemo.cs" t="Include" />
+        <e p="MultDiv.cs" t="Include" />
+        <e p="NoZeroDiv.cs" t="Include" />
+        <e p="NoZeroDiv2.cs" t="Include" />
+        <e p="NotDemo.cs" t="Include" />
         <e p="Operator_page_97.csproj" t="IncludeRecursive" />
         <e p="PrePostDemo.cs" t="Include" />
         <e p="Program.cs" t="Include" />
@@ -211,6 +218,7 @@
         </e>
         <e p="RelLogOps.cs" t="Include" />
         <e p="SCops.cs" t="Include" />
+        <e p="ShiftDemo.cs" t="Include" />
         <e p="ShowBits.cs" t="Include" />
         <e p="SideEffects.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
